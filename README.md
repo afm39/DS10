@@ -1,4 +1,4 @@
 # DS10
 
-#Data Collection API Lab.ipynb -> Partre 1
+#Data Collection API Lab.ipynb -> Parte 1
 #
